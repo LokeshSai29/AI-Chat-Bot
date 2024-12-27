@@ -45,4 +45,4 @@ To run this project locally, follow these steps:
 ## Demo
 
 Check out the screen recording of the Gemini AI Assist in action:
--  https://github.com/user-attachments/assets/d5876c82-8367-4363-b16c-333db4734cab
+> https://github.com/user-attachments/assets/d5876c82-8367-4363-b16c-333db4734cab
