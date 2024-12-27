@@ -40,14 +40,8 @@ To run this project locally, follow these steps:
 3. Click the "New Chat" button to start a fresh conversation.
 4. Interact with the AI-powered assistant and explore its capabilities.
 
-## Contributing
+## Demo
 
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-xyz`).
-3. Commit your changes (`git commit -am 'Add feature xyz'`).
-4. Push to the branch (`git push origin feature-xyz`).
-5. Create a new Pull Request.
+Check out the screen recording of the Gemini AI Assist in action:
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+![Gemini AI Assist Demo]
