@@ -96,7 +96,7 @@ const sideNavigation = document.querySelector(".sideNavigation"),
         results.innerHTML+= resultTitle;
         results.innerHTML+=resultData;
 
-        const AIURL =`https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyCiW8eOJ22VfPPNTEob8gaFm2Cpiub-l-M`
+        const AIURL =`https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=API-KEY-HERE`
         fetch(AIURL ,{
             method:"POST",
             body : JSON.stringify({
